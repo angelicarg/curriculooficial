@@ -5,20 +5,49 @@
 }
 #nav {
   display: flex;
-  flex-direction: column;
+  flex-direction: row-reverse;
   flex-wrap: nowrap;
   justify-content: center;
   align-items: center;
   margin-top: 90px;
+  background-color: #2F4F4F;
 }
 #nav img {
   font-size: 90px;
-  width: 30%;
+  width: 20%;
   padding-right: 30px;
+  background-color: #2F4F4F;
 }
 
 #nav h1 {
-  font-size: 40px;
+  font-size: 60px;
   display: flex;
   justify-content: center;
+  background-color: #2F4F4F;
 }
+
+#titulo {
+  display: flex;
+  background-color: white;
+  }
+
+#ptitulo {
+  display: flex;
+  background-color: white;
+}
+
+#sobremim {
+  margin: 3%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 3%;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 60px;
+  background-color: white;
+  text-align: center;
+}
+
