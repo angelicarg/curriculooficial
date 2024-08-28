@@ -10,20 +10,22 @@
   justify-content: center;
   align-items: center;
   margin-top: 90px;
-  background-color: #2F4F4F;
+  background-color: #457c7c;
+  border-radius: 20px;
 }
 #nav img {
   font-size: 90px;
   width: 20%;
   padding-right: 30px;
-  background-color: #2F4F4F;
+  background-color: #457c7c;
+  border-radius: 30%;
 }
 
 #nav h1 {
-  font-size: 60px;
+  font-size: 50px;
   display: flex;
   justify-content: center;
-  background-color: #2F4F4F;
+  background-color: #457c7c;
 }
 
 #titulo {
